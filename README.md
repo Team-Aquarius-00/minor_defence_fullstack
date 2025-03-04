@@ -12,7 +12,7 @@ This project is a multi-feature stock prediction system that utilizes Long Short
 
 ## Tech Stack
 - **Frontend**: TypeScript (React + Vite)
-- **Backend**: FastAPI (Python)
+- **Backend**: Flask (Python)
 - **Database**: MongoDB
 - **Authentication**: Supabase
 - **Deployment**: Local setup with npm and Python
