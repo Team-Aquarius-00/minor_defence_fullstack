@@ -1,0 +1,7 @@
+os
+panadas
+flask
+flask_cors
+tensorflow
+sklearn
+
