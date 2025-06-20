@@ -11,8 +11,8 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-EMAIL_USER = ''
-EMAIL_PASS = ''
+EMAIL_USER = 'strange426344@gmail.com'
+EMAIL_PASS = 'nsqhrjstugtxfjwb'
 
 
 @app.route('/send-email', methods=['POST'])
